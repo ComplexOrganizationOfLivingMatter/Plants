@@ -1,0 +1,10 @@
+data/
+results/
+docs/
+
+*.asv
+*.tif
+*.mat
+*.bmp
+*.xls
+*.fig
